@@ -1,0 +1,20 @@
+{
+  "name": "ts-hw-07",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/basiclightbox": "^5.0.4",
+    "basiclightbox": "^5.0.4",
+    "simplelightbox": "^2.14.2"
+  }
+}
